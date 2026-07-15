@@ -12,14 +12,19 @@ A curated guide to leading **SaaS/cloud-hosted robo-advisors** (like FutureAdvis
 Popular automated investment platforms using algorithms for portfolio management, rebalancing, tax optimization, and goal-based planning.
 
 ### Leading Options
-- **[Betterment](https://betterment.com)** — Pioneering robo-advisor with tax-loss harvesting, SRI/ESG options, and comprehensive financial planning tools.
-- **[Wealthfront](https://wealthfront.com)** — High-tech robo-advisor known for sophisticated tax optimization, direct indexing, and low fees.
-- **[Personal Capital (now Empower)](https://personalcapital.com)** — Combines robo-advisory with wealth management tools, retirement planning, and human advisor access.
-- **[FutureAdvisor](https://futureadvisor.com)** (acquired by BlackRock) — Early robo-advisor focused on personalized retirement and investment advice.
 
-**Other notables**: Schwab Intelligent Portfolios, Vanguard Digital Advisor, SoFi Invest, and Acorns.
+| Product | Description | Pricing | Free Tier / Limits |
+|---------|-------------|---------|--------------------|
+| **[Betterment](https://betterment.com)** | Pioneering robo-advisor with tax-loss harvesting, SRI/ESG options, and financial planning tools. | 0.25% AUM ($4/mo if <$20k) | No free tier for investing |
+| **[Wealthfront](https://wealthfront.com)** | High-tech robo-advisor known for sophisticated tax optimization, direct indexing, and low fees. | 0.25% AUM | No free tier for investing |
+| **[Personal Capital (Empower)](https://personalcapital.com)** | Combines robo-advisory with wealth management tools, retirement planning, and human advisor access. | 0.89% AUM (first $1M) | Free financial tracking dashboard (No limits) |
+| **[FutureAdvisor](https://futureadvisor.com)** | Early robo-advisor focused on personalized retirement and investment advice. | 0.50% AUM (historically) | N/A |
+| **Schwab Intelligent Portfolios** | Automated investing by Charles Schwab. | 0.00% AUM | Free (requires $5k minimum) |
+| **Vanguard Digital Advisor** | Low-cost automated investing from Vanguard. | ~0.20% AUM | No free tier |
+| **SoFi Invest** | Robo-advisor with no advisory management fees. | 0.00% AUM | Free (No limits) |
+| **Acorns** | Micro-investing app that rounds up everyday purchases. | $3 - $9 / month | No free tier |
 
-These platforms typically charge 0.25% AUM or less, offer automated rebalancing, and provide user-friendly apps for goal tracking.
+These platforms offer automated rebalancing, and provide user-friendly apps for goal tracking.
 
 ---
 
