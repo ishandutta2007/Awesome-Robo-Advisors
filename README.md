@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Robo-Advisors Banner" width="800">
+</div>
+
 # Awesome-Robo-Advisors
 ## Top Robo-Advisors & Open-Source Alternatives
 
