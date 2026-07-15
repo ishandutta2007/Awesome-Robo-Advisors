@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Awesome Robo-Advisors Banner" width="800">
 </div>
 
-# Awesome-Robo-Advisors
-## Top Robo-Advisors & Open-Source Alternatives
+# 🤖 Awesome-Robo-Advisors
+## 🌟 Top Robo-Advisors & Open-Source Alternatives
 
 A curated guide to leading **SaaS/cloud-hosted robo-advisors** (like FutureAdvisor, Betterment, Personal Capital/Empower, Wealthfront) and their **open-source/self-hosted equivalents**. 
 
@@ -11,11 +11,11 @@ A curated guide to leading **SaaS/cloud-hosted robo-advisors** (like FutureAdvis
 
 ---
 
-## SaaS / Cloud-Hosted Robo-Advisors
+## ☁️ SaaS / Cloud-Hosted Robo-Advisors
 
 Popular automated investment platforms using algorithms for portfolio management, rebalancing, tax optimization, and goal-based planning.
 
-### Leading Options
+### 🥇 Leading Options
 
 | Product | Description | Pricing | Free Tier / Limits | Company Size |
 |---------|-------------|---------|--------------------|--------------|
@@ -32,11 +32,11 @@ These platforms offer automated rebalancing, and provide user-friendly apps for 
 
 ---
 
-## Open-Source / Self-Hosted Alternatives
+## 🔓 Open-Source / Self-Hosted Alternatives
 
 These libraries, tools, and platforms let you build custom robo-advisors, portfolio optimizers, trackers, and AI-driven investment systems with full control over algorithms and data.
 
-### Featured Projects
+### 🚀 Featured Projects
 
 - **[PyPortfolioOpt](https://pyportfolioopt.readthedocs.io)** [![GitHub stars](https://img.shields.io/github/stars/robertmartin8/PyPortfolioOpt?style=social&color=white)](https://github.com/robertmartin8/PyPortfolioOpt/stargazers) — Python library for portfolio optimization (efficient frontier, Black-Litterman, etc.). Core building block for custom robo-advisors.<grok-card data-id="37d4e8" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
@@ -48,7 +48,7 @@ These libraries, tools, and platforms let you build custom robo-advisors, portfo
 
 - **[FinRobot](https://github.com/ai4finance-foundation/finrobot)** [![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social&color=white)](https://github.com/AI4Finance-Foundation/FinRobot/stargazers) — Open-source AI agent platform for financial analysis using LLMs. Extensible for robo-advisory logic.<grok-card data-id="218aad" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
-### Additional Open-Source Tools
+### 🛠️ Additional Open-Source Tools
 - **Robo-Advisor with Python** (Packt examples) — Code for building automated portfolio management systems.
 - **skfolio** — scikit-learn compatible library for portfolio optimization and risk management.
 - Various GitHub projects under "roboadvisor" topic: Custom rebalancers, AI recommendation engines, and retirement simulators.<grok-card data-id="aef03f" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
@@ -58,7 +58,7 @@ These libraries, tools, and platforms let you build custom robo-advisors, portfo
 
 ---
 
-## Comparison
+## 📊 Comparison
 
 | Aspect              | SaaS Robo-Advisors                    | Open-Source / Self-Hosted                  |
 |---------------------|---------------------------------------|--------------------------------------------|
@@ -70,7 +70,7 @@ These libraries, tools, and platforms let you build custom robo-advisors, portfo
 
 ---
 
-## Getting Started
+## 🏁 Getting Started
 
 1. Define your strategy (asset allocation, risk tolerance, goals).
 2. Use **Ghostfolio** or **Rotki** for tracking and monitoring.
@@ -78,7 +78,7 @@ These libraries, tools, and platforms let you build custom robo-advisors, portfo
 4. Deploy on your server or cloud; integrate brokers via APIs where available.
 5. Test with historical data and paper trading.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to submit PRs to expand this list with more projects, tools, or comparisons!
 
