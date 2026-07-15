@@ -5,7 +5,9 @@
 # 🤖 Awesome-Robo-Advisors
 ## 🌟 Top Robo-Advisors & Open-Source Alternatives
 
-A curated guide to leading **SaaS/cloud-hosted robo-advisors** (like FutureAdvisor, Betterment, Personal Capital/Empower, Wealthfront) and their **open-source/self-hosted equivalents**. 
+> **Keywords:** Robo-advisors, Open-source finance, Automated investing, Personal finance, Wealth management, Algorithmic trading, Portfolio optimization, Wealthtech, FinTech.
+
+A comprehensive and curated guide to the best **SaaS/cloud-hosted robo-advisors** (such as FutureAdvisor, Betterment, Personal Capital/Empower, Wealthfront) and their **open-source/self-hosted equivalents**. 
 
 **Open-source solutions are emphasized** for customization, privacy, cost savings, and building your own automated investment systems.
 
