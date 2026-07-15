@@ -34,15 +34,15 @@ These libraries, tools, and platforms let you build custom robo-advisors, portfo
 
 ### Featured Projects
 
-- **[Ghostfolio](https://ghostfol.io)** — Privacy-first open-source dashboard for personal finances. Tracks net worth, asset allocation, and investment performance across brokers.<grok-card data-id="9b19f6" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[PyPortfolioOpt](https://pyportfolioopt.readthedocs.io)** [![GitHub stars](https://img.shields.io/github/stars/robertmartin8/PyPortfolioOpt?style=social&color=white)](https://github.com/robertmartin8/PyPortfolioOpt/stargazers) — Python library for portfolio optimization (efficient frontier, Black-Litterman, etc.). Core building block for custom robo-advisors.<grok-card data-id="37d4e8" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+
+- **[Ghostfolio](https://ghostfol.io)** [![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers) — Privacy-first open-source dashboard for personal finances. Tracks net worth, asset allocation, and investment performance across brokers.<grok-card data-id="9b19f6" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: Search "Ghostfolio" for the repo
   - Best for: Wealth tracking and visualization.
 
-- **[Rotki](https://rotki.com)** — Open-source portfolio tracker with accounting, tax reporting, and privacy focus. Supports multiple assets and exchanges.<grok-card data-id="9440e0" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[Rotki](https://rotki.com)** [![GitHub stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers) — Open-source portfolio tracker with accounting, tax reporting, and privacy focus. Supports multiple assets and exchanges.<grok-card data-id="9440e0" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
-- **[FinRobot](https://github.com/ai4finance-foundation/finrobot)** — Open-source AI agent platform for financial analysis using LLMs. Extensible for robo-advisory logic.<grok-card data-id="218aad" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
-
-- **[PyPortfolioOpt](https://pyportfolioopt.readthedocs.io)** — Python library for portfolio optimization (efficient frontier, Black-Litterman, etc.). Core building block for custom robo-advisors.<grok-card data-id="37d4e8" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[FinRobot](https://github.com/ai4finance-foundation/finrobot)** [![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social&color=white)](https://github.com/AI4Finance-Foundation/FinRobot/stargazers) — Open-source AI agent platform for financial analysis using LLMs. Extensible for robo-advisory logic.<grok-card data-id="218aad" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
 ### Additional Open-Source Tools
 - **Robo-Advisor with Python** (Packt examples) — Code for building automated portfolio management systems.
